@@ -1,10 +1,11 @@
 using System;
 
-namespace Ejercicios_de_Objetos.House
+namespace House
 {
     public class Person
     {
         private string name;
+        public House house {get;set;}
 
         public Person(string name)
         {
@@ -13,17 +14,7 @@ namespace Ejercicios_de_Objetos.House
 
         public void ShowData()
         {
-            Console.WriteLine($"{name}\n{house.GetArea()}");
-        }
-
-        public void GetHouse(uint area)
-        {
-            House house = new House(area);
-        }
-
-        public void GetSmallAppartment()
-        {
-            SmallApartment sAppartment = new SmallApartment();
+            Console.WriteLine($"{name}\n{this.house.area}\n{this.house.door.color}");
         }
     }
 }

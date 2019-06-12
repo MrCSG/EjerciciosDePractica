@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
+      "projectUniqueName": "c:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
       "projectName": "Ejercicios de Objetos",
-      "projectPath": "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
+      "projectPath": "c:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\obj\\",
+      "outputPath": "c:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

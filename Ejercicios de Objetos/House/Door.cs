@@ -1,18 +1,14 @@
 using System;
 
-namespace Ejercicios_de_Objetos.House
+namespace House
 {
     public class Door
     {
-        private string color;
+        public string color {get;set;}
 
-        public void SetColor(string color)
+        public Door(string color)
         {
             this.color = color;
-        }
-        public string GetColor()
-        {
-            return this.color;
         }
 
         public void ShowData()

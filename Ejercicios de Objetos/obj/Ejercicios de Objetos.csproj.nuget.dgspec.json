@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj": {}
+    "C:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj": {}
   },
   "projects": {
-    "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj": {
+    "C:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
+        "projectUniqueName": "C:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
         "projectName": "Ejercicios de Objetos",
-        "projectPath": "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
+        "projectPath": "C:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\Ejercicios de Objetos.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\CursoNetCoreUTN\\Ejercicios de Práctica\\Ejercicios de Objetos\\obj\\",
+        "outputPath": "C:\\CursoNetCoreUTN\\EjerciciosDePractica\\Ejercicios de Objetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

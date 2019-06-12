@@ -1,12 +1,9 @@
 using System;
 
-namespace Ejercicios_de_Objetos.House
+namespace House
 {
     public class SmallApartment : House
     {
-        public SmallApartment()
-        {
-            base.area = 50;
-        }
+        public SmallApartment() : base(50d){}
     }
 }

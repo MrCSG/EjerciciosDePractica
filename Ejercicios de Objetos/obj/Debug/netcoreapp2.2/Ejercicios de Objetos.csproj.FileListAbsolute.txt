@@ -1,11 +1,11 @@
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.csprojAssemblyReference.cache
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.csproj.CoreCompileInputs.cache
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.AssemblyInfoInputs.cache
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.AssemblyInfo.cs
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.deps.json
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.runtimeconfig.json
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.runtimeconfig.dev.json
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.dll
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.pdb
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.dll
-C:\CursoNetCoreUTN\Ejercicios de Práctica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.pdb
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.csprojAssemblyReference.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.csproj.CoreCompileInputs.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.AssemblyInfoInputs.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.AssemblyInfo.cs
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.deps.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.runtimeconfig.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.runtimeconfig.dev.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.dll
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\bin\Debug\netcoreapp2.2\Ejercicios de Objetos.pdb
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.dll
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios de Objetos\obj\Debug\netcoreapp2.2\Ejercicios de Objetos.pdb
