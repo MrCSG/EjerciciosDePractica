@@ -1,0 +1,11 @@
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\bin\Debug\netcoreapp2.2\Ejercicios Data Type.deps.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\bin\Debug\netcoreapp2.2\Ejercicios Data Type.runtimeconfig.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\bin\Debug\netcoreapp2.2\Ejercicios Data Type.runtimeconfig.dev.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\bin\Debug\netcoreapp2.2\Ejercicios Data Type.dll
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\bin\Debug\netcoreapp2.2\Ejercicios Data Type.pdb
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\obj\Debug\netcoreapp2.2\Ejercicios Data Type.csprojAssemblyReference.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\obj\Debug\netcoreapp2.2\Ejercicios Data Type.csproj.CoreCompileInputs.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\obj\Debug\netcoreapp2.2\Ejercicios Data Type.AssemblyInfoInputs.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\obj\Debug\netcoreapp2.2\Ejercicios Data Type.AssemblyInfo.cs
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\obj\Debug\netcoreapp2.2\Ejercicios Data Type.dll
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicios Data Type\obj\Debug\netcoreapp2.2\Ejercicios Data Type.pdb
