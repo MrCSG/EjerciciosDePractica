@@ -1,0 +1,11 @@
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\bin\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.deps.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\bin\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.runtimeconfig.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\bin\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.runtimeconfig.dev.json
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\bin\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.dll
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\bin\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.pdb
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\obj\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.csprojAssemblyReference.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\obj\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.csproj.CoreCompileInputs.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\obj\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.AssemblyInfoInputs.cache
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\obj\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.AssemblyInfo.cs
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\obj\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.dll
+C:\CursoNetCoreUTN\EjerciciosDePractica\Ejercicio HerenciaVsInterfaces\obj\Debug\netcoreapp2.2\Ejercicio HerenciaVsInterfaces.pdb
